@@ -1,6 +1,6 @@
 # UT-Week1-HTML-CSS
 
-This is one of my first assignments from UT Houston Coding Bootcamp. We learned how to use Git, write HTML and CSS.
+This is one of my first exercises from UT Houston Coding Bootcamp Program. We learned how to use Git, write HTML and CSS.
 
 ## Sample Page
 

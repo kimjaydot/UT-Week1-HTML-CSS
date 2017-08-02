@@ -1,3 +1,4 @@
+  /*Instructions for class*
   * **Instructions**:
 
     * Put all of this code inside a folder named `week1-day2-html-css`, and put the folder in a place where you normally code. 
